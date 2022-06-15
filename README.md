@@ -10,7 +10,7 @@ Algos tried on both imbalanced and balanced dataset with close notice on precisi
 - Logistic Regression
 - RandomForest
 
-### comparison of the models
+### comparison of the models (for fraud)
 
 |         Models tried                             |       P    |     R    |   f-1   |
 |--------------------------------------------------|------------|----------|---------|
