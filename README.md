@@ -9,3 +9,7 @@ Algos tried on both imbalanced and balanced dataset with close notice on precisi
 - SVM
 - Logistic Regression
 - RandomForest
+
+### Conclusion:
+
+Finally SVM was found to give best results
