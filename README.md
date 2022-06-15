@@ -46,7 +46,10 @@ Algos tried on both imbalanced and balanced dataset with close notice on precisi
 |Fraud                                             |     0.96   |   0.93   |  0.94   |
 |Not fraud                                         |     0.93   |   0.96   |  0.94   |
 |                                                  |            |          |         |
-|Random forest on val                              |           
+|Random forest on val                              |            |          |         |
+|Not Fraud                                         |      0.99  |   0.92   |  0.95   |
+|Fraud                                             |      0.98  |   0.91   |  0.95   |  
+|                                                  |            |          |         |
 
 ### Conclusion:
 
