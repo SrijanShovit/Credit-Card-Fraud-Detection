@@ -53,4 +53,4 @@ Algos tried on both imbalanced and balanced dataset with close notice on precisi
 
 ### Conclusion:
 
-Finally SVM was found to give best results
+I feel SVM to be best suited!!
